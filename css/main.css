@@ -313,7 +313,7 @@ ul li {
 
 }
 
-@media (max-width:360px) {
+@media (max-width:370px) {
     .about-owner address {
         letter-spacing: -0.5px;
     }
