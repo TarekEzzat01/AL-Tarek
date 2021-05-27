@@ -310,9 +310,11 @@ ul li {
         left: 50%;
         transform: translateX(-50%);
     }
-
+    
+    .about-owner img {
+        width:100%;
 }
-
+}
 @media (max-width:370px) {
     .about-owner address {
         letter-spacing: -1.5px;
